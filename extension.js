@@ -175,7 +175,7 @@
 				}
 			}
 		};
-*/
+
 
 		bot.commands.testCommand = {
 			command: 'test',  
@@ -193,7 +193,7 @@
 				}
 			}
 		};
-		
+*/		
         // Load the chat package again to account for any changes
         bot.loadChat();
 
