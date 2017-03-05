@@ -186,7 +186,7 @@
 				if (!bot.commands.executable(this.rank, chat)) return void (0);
 				else {
 					var djList = [];
-					var djListLength = 2;
+					var djListLength = '2';
 					API.sendChat(djListLength);
 				}
 			}
