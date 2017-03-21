@@ -436,7 +436,7 @@
     localStorage.setItem("domoArigatoMrRobotosettings", JSON.stringify({
 		botName: "domoArigatoMrRoboto",
 		language: "english",
-		chatLink: "https://rawgit.com/klthao/source/master/lang/en.json",
+		chatLink: "https://rawgit.com/klthao/custom/master/lang/en.json",
 		scriptLink: "https://rawgit.com/klthao/source/master/domoArigatoMrRoboto.js",
 		roomLock: false, // Requires an extension to re-load the script
 		startupCap: 1, // 1-200
